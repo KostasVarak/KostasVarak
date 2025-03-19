@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KostasVarak
-- I am and Electrical and Computer Engineering student in the University of Thessaly (Year 4)
+- I am an Electrical and Computer Engineering student in the University of Thessaly (Year 4)
 - I have intrests in Space Technologies, Machine Learnig, Hardware Engineering, Radio Astronomy, Data Science
 - kvarakliotis@uth.gr
 - kostasvarac@gmail.com
